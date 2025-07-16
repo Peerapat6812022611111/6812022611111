@@ -1,7 +1,6 @@
-#include <stdio.h>
+#include <stdio.h>          //keyword,identifier
 
-int main() {
-    printf("Hello,\n");
-    printf("C Tokens!\n");
-    return 0;
-}
+int main() {                //keyword,identifier
+    printf("Hello,\n");     //constant,identifier
+    printf("C Tokens!\n");  //constant
+    return 0;               //keyword,constant,opertor
